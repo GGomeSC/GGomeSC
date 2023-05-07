@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @GGomeSC
 - 👀 I’m interested in programming languages and tech
-- 🌱 I’m currently learning Python, JS and also studying computer science
+- 🌱 I’m currently a computer science student
 - 📫 How to reach me, send me an email on: gabrielcoelho2002@gmail.com
